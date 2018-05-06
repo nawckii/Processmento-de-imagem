@@ -1,4 +1,4 @@
-import cv2 as cv
+import cv2 as cv1
 import numpy as np
 
 
