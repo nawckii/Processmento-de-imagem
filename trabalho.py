@@ -1,4 +1,4 @@
-import cv2 
+import cv2
 import numpy as np
 
 
@@ -64,7 +64,7 @@ def main():
 	# #preto e branco
 	# cv2.imshow('imagemPb', imgPB)
 	# cv2.imshow('imagemMed', imgMed)
-    cv2.imshow('imagemGam', imgGam)
+    cv2.imshow('imagemGam', imgLim)
 
 
     tecla = cv2.waitKey(0)
